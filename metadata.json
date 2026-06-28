@@ -1,0 +1,6 @@
+{
+  "name": "UrbanFix OS",
+  "description": "Premium civic operations registry and dispatch platform for analyzing municipal safety threats, predicting inaction consequences, and recommending response paths.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
